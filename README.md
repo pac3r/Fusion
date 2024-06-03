@@ -1,3 +1,5 @@
+*This fork adds a library.json file for immediate inclusion in platformio*
+
 [![Tags](https://img.shields.io/github/v/tag/xioTechnologies/Fusion.svg)](https://github.com/xioTechnologies/Fusion/tags/)
 [![Build](https://img.shields.io/github/actions/workflow/status/xioTechnologies/Fusion/main.yml?branch=main)](https://github.com/xioTechnologies/Fusion/actions/workflows/main.yml)
 [![Pypi](https://img.shields.io/pypi/v/imufusion.svg)](https://pypi.org/project/imufusion/)
